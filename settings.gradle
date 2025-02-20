@@ -1,1 +1,8 @@
 rootProject.name = 'msa_user'
+
+
+include 'service'
+include 'service:user'
+include 'service:profile'
+include 'service:note'
+include 'service:sign'
